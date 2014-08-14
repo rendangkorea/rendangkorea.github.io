@@ -118,7 +118,7 @@
     <caption><![CDATA[Images are pre-loaded in the background to avoid load bars when viewing an image.]]></caption>
   </image>
   <image imageURL="images/18.jpg"
-	thumbURL="thumbs/18jpg"
+	thumbURL="thumbs/18.jpg"
 	linkURL="images/18.jpg"
 	linkTarget="_blank">
     <caption><![CDATA[Images can be loaded via an XML document or directly from Flickr using a Flickr user name and/or tags.]]></caption>
